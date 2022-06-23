@@ -1,0 +1,10 @@
+[book]
+authors = ["Madhav Shekhar"]
+language = "en"
+multilingual = false
+src = "src"
+title = "w.mdvsh.co"
+description = "madhav's personal wiki"
+
+[build]
+create-missing = true
