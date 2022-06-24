@@ -2,6 +2,7 @@
 
 - [mostly adequate guide to fp](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
+### language specific
 
 - [python magic functions](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts)
 - [pytudes](https://github.com/norvig/pytudes)

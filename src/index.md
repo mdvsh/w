@@ -2,6 +2,6 @@
 
 ### colophon
 
-built using [mdbook](https://rust-lang.github.io/mdBook/), continuously deployed to [vercel](https://vercel.com/).
+built using [mdbook](https://rust-lang.github.io/mdBook/), continuously deployed using gh-pages 
 
 dumps are my own.
