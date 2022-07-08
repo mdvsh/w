@@ -18,6 +18,7 @@
 - [art of cmd line](https://github.com/jlevy/the-art-of-command-line)
 - [prog curriculua](https://github.com/P1xt/p1xt-guides)
 - [the _think_ books](https://greenteapress.com/wp/)
+- [gh what to know prog](https://github.com/mtdvio/every-programmer-should-know)
 
 
 

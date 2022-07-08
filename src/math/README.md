@@ -6,6 +6,7 @@
 - [common errors in college math](https://math.vanderbilt.edu/schectex/commerrs/)
 - [math foundations from scratch](https://learnaifromscratch.github.io/math.html#Proof%20assistants)
 	- other links vhelpful too
+- [typing math](https://math-on-quora.surge.sh/)
 	
 ### knowledge repos/people
 - [self taught math edu](https://github.com/ossu/math) 
@@ -22,5 +23,6 @@
 - [in pursuit of the unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown)
 - [little handbook of stats practice](http://www.jerrydallal.com/LHSP/LHSP.HTM)
 - [another ds book](https://www.anotherbookondatascience.com/)
+- abott analysis, presh's math puzzles, joy of game theory, numerical methods
 
 lot of other topics specific exemplary books have been ommited by wiki design choice
