@@ -14,7 +14,7 @@
 - [3b1b](https://www.3blue1brown.com/)
 - [real not compelx resources](https://realnotcomplex.com/)
 - [seeing theory (stats)](https://seeing-theory.brown.edu/)
-
+- [logic and proof how to](http://avigad.github.io/logic_and_proof/introduction.html)
 
 ### books
 - [applied crypto (grad)](https://toc.cryptobook.us/)
