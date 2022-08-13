@@ -13,4 +13,6 @@
 - [** great talks](https://github.com/hellerve/programming-talks)
 - [haskell through example, scheme 48 hrs](https://upload.wikimedia.org/wikipedia/commons/a/aa/Write_Yourself_a_Scheme_in_48_Hours.pdf)
 - [the mediocre programmer](https://themediocreprogrammer.com/build/html/the_mediocre_programmer.html)
+- [well explained](https://github.com/MaxwellBo/well-documented)
+  - walkthroughs and literate implementations of moderately complex standalone applications.
 
